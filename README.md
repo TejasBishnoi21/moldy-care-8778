@@ -30,5 +30,7 @@ Zara.com  is a Spanish fast fashion retailer brand. It is focused on design, pro
 
 ## Screenshots
 
+<img id="ss1" src="./screenshots/ss1.png" alt="">
+
 ## Deployed link
 - https://quiet-begonia-859735.netlify.app
