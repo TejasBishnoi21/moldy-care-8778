@@ -27,6 +27,10 @@ Zara.com  is a Spanish fast fashion retailer brand. It is focused on design, pro
 - **Heroku**
 - **JSON Server**
 
+![Screenshot (1029)](https://user-images.githubusercontent.com/103637436/221806060-143bfd99-77cb-41f5-a73c-78d153a9bd20.png)
+![Screenshot (1028)](https://user-images.githubusercontent.com/103637436/221806065-05126fbe-5cc5-4ffa-9b01-f34f1217486e.png)
+![Screenshot (1026)](https://user-images.githubusercontent.com/103637436/221806071-80a02382-12a4-457f-beeb-19c1a7da324c.png)
+![Screenshot (1025)](https://user-images.githubusercontent.com/103637436/221806076-dd31cda8-7843-43e9-9c45-f94ae24f3720.png)
 
 ## Screenshots
 
